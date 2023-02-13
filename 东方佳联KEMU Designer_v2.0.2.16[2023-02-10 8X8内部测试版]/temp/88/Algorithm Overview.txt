@@ -1,0 +1,15 @@
+====================================================
+send 0 = 0x000d0100;
+send 1 = 0x04000000;
+send 2 = 0x00080000;
+send 3 = 0x0f000000;
+send 4 = 0x020b0000;
+send 5 = 0x38393a3b;
+send 6 = 0x0f00ffff;
+send 7 = 0xffffffff;
+send 8 = 0x020b0000;
+send 9 = 0x68696a6b;
+send 10 = 0x0f00ffff;
+send 11 = 0xffffffff;
+send 12 = 0x01090000;
+send 13 = 0x0f00ffff;
